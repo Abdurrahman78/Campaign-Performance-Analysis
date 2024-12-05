@@ -87,10 +87,10 @@ The main goals of the project were:
 ## Team Members
 
 - **Abdurrahman Elkhadrawy** - Audience Analyst
-- Britney Aparicio - Spatial Analyst  
-- Abraham Cordova - Creative Analyst  
+- Britney Aparicio - Creative Analyst  
+- Abraham Cordova - Audience Analyst  
 - Darien Miller - Inventory Analyst  
-- Allen Kwan - Audience Analyst  
+- Allen Kwan - Spatial Analyst  
 
 ---
 
