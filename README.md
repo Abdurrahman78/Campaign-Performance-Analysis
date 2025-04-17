@@ -2,21 +2,10 @@
 
 ## Overview
 
-Media Fusion is a data-driven initiative aimed at empowering brands through strategic insights. This project focuses on analyzing a telecommunications company's advertising data to optimize strategies and achieve cost-effectiveness, improved conversion rates, and enhanced viewability.
+This project focuses on analyzing a telecommunications company's advertising data to optimize strategies and achieve cost-effectiveness, improved conversion rates, and enhanced viewability.
 
 ---
 
-## Objectives
-
-The main goals of the project were:
-- **Decrease Cost-Per-Acquisition (CPA)**:
-  - Audiences: $250
-  - Desktop conversions: $350
-  - Smartphone conversions: $400
-- **Increase Click-Through Rate (CTR)**: 0.015%
-- **Increase Viewability**: 60%
-
----
 
 ## Key Findings
 
@@ -82,15 +71,6 @@ The main goals of the project were:
    - Leverage Sovrn for balanced performance across metrics.
    - Optimize budgets based on composite cost analyses.
 
----
-
-## Team Members
-
-- **Abdurrahman Elkhadrawy** - Audience Analyst
-- Britney Aparicio - Creative Analyst  
-- Abraham Cordova - Audience Analyst  
-- Darien Miller - Inventory Analyst  
-- Allen Kwan - Spatial Analyst  
 
 ---
 
